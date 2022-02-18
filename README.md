@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Pandas/Python
 - 🌱 I’m currently learning everything
-- 💬 Ask me about anything related to Java/Python or /Javascript/Django
+- 💬 Ask me about anything related to Java/Python/C# or Javascript/JQery/React/Vue
 - 📫 How to reach me: [@ibrahim-bolat](mailto:ibobolat66@gmail.com)
 
 
