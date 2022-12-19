@@ -9,7 +9,7 @@
 Connect with me:<br/><br/>
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=link)](https://www.linkedin.com/in/ibrahim-bolat-6609451b8/)
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white&link=link)](https://github.com/ibrahim-bolat)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=link)](mailto:ibobolat@66gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=link)](mailto:ibobolat66@gmail.com)
 
 ------------------------------------------------------------------------------------------------------------------------------------------
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=ibrahim-bolat&show_icons=true&theme=radical)
